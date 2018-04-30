@@ -1,0 +1,8 @@
+using system
+public class test
+{
+   public void Start()
+   {
+   Console.Writes("Hellow");
+   }
+}
